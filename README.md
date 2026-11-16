@@ -20,3 +20,7 @@ After running the notebook, insert the actual selected candidate and the actual 
 - Consider calibration and decision-threshold analysis using validation data, with an explicit discussion of the trade-off between sensitivity and false positives.
 - Seek representative, ethically collected, de-identified local data and conduct independent validation with clinical and regulatory oversight before any real-world use.
 # Tools Used
+.Language:Python
+.Data handling: pandas,numpy
+.Modelling:sckit-learn
+.Environment: Jupyter Notebook
